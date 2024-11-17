@@ -1,3 +1,5 @@
+  // to run the code put in the command line: node index.js
+
 const puppeteer = require('puppeteer');
 
 async function takeScreenshot(url, clip, filePath) {
